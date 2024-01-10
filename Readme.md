@@ -1,7 +1,7 @@
 ## A Computer Architecture Project in Python
 
 ### Introduction
-A simple Computer Architecture  project as part of my Computer Science course. This project is a Python-based simulator of a unique Instruction Set Architecture (ISA). It is designed to interpret and execute binary instructions, handle basic arithmetic operations, and maintain a history of calculations. The calculator serves as a practical tool for understanding fundamental concepts in computer architecture and binary computation.
+A simple Computer Architecture  project as part of my CS course. This project is a Python-based simulator of a unique Instruction Set Architecture (ISA). It is designed to interpret and execute binary instructions, handle basic arithmetic operations, and maintain a history of calculations. The calculator serves as a practical tool for understanding fundamental concepts in computer architecture and binary computation.
 
 ### Features and Objectives
 The project aims to demonstrate the following key features and objectives:
