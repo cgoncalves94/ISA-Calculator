@@ -1,11 +1,10 @@
-# Ultra Super Calculation Computer 
 ## A Computer Architecture Project in Python
 
 ### Introduction
-Welcome to my Computer Architecture course project, featuring the Ultra Super Calculation Computer (USCC). This project is a Python-based simulator of a unique Instruction Set Architecture (ISA). It is designed to interpret and execute binary instructions, handle basic arithmetic operations, and maintain a history of calculations. The USCC serves as a practical tool for understanding fundamental concepts in computer architecture and binary computation.
+A simple Computer Architecture  project as part of my Computer Science course. This project is a Python-based simulator of a unique Instruction Set Architecture (ISA). It is designed to interpret and execute binary instructions, handle basic arithmetic operations, and maintain a history of calculations. The calculator serves as a practical tool for understanding fundamental concepts in computer architecture and binary computation.
 
 ### Features and Objectives
-The USCC project aims to demonstrate the following key features and objectives:
+The project aims to demonstrate the following key features and objectives:
 
 - **Instruction Set Architecture Simulation**: Simulating a custom ISA for executing arithmetic operations.
 - **Binary Data Handling**: Processing binary instructions into executable operations.
@@ -33,3 +32,7 @@ The USCC project aims to demonstrate the following key features and objectives:
    - Retrieve the last calculation: `10000100000000000000000000000000`
 
 Experiment with different binary instructions to explore the functionality of the USCC.
+
+### Instruction Set Architecture (ISA)
+For detailed ISA information and instruction formats, please refer to the `instructions.txt` file in this repository.
+
