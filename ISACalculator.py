@@ -1,8 +1,8 @@
 
-class UltraSuperCalculator:
+class ISACalculator:
     def __init__(self, name) -> None:
         """
-        Initialize the UltraSuperCalculator object.
+        Initialize the ISACalculator object.
 
         Args:
             name (str): The name of the calculator.
@@ -186,7 +186,8 @@ class UltraSuperCalculator:
         self.update_display(f"The result is: {result}")
 
 
-your_calc_name = UltraSuperCalculator("Cesar")
+# Example Usage
+your_calc_name = ISACalculator("Cesar")
 
 # Adds 10 and 5 to number registers
 your_calc_name.binary_reader("00000100000000000000001010000000")
