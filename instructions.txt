@@ -1,5 +1,5 @@
 #-------------------------------------------
-# USCC Headquarter's Instruction Set Architecture
+# Instruction Set Architecture
 #  System Design:
 #   - Four function calculator
 #   - Can only operate on numbers stored in registers
